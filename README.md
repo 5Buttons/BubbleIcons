@@ -3,7 +3,7 @@ BubbleIcons is a lightweight addon for WoW 3.3.5 that displays raid target icons
 Code is based on Bubblicious: https://www.curseforge.com/wow/addons/bubblicious
 
 
-# Standalone 3.3.5
+# Ancient 3.3.5 client
 <img width="308" height="205" alt="image" src="https://github.com/user-attachments/assets/83c43a78-1de7-4cdb-8d8a-20e5516f1247" />
 
 # With BubbleIcons
