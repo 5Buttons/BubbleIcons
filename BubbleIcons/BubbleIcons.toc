@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BubbleIcons
+## Notes: Displays raid icons in chat bubbles
+## Author: Fivebuttons
+## Version: 1.0
+
+BubbleIcons.lua
